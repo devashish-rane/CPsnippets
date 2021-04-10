@@ -129,6 +129,11 @@ bool cmp(pair<int, int> p, pair<int, int> q) {
 // For S≈N−−√ this gives O((N+Q)N−−√) operations in total. Thus the complexity 
 // is O((N+Q)FN−−√) where O(F) is the complexity of add and remove function.
 
+
+
+
+
+
 int main(){
     int s
     return 0;
