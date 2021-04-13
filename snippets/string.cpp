@@ -60,7 +60,7 @@ vector<int> prefixArray(string s){
 		}
 		if(s[j]==s[i]) j++;
 
-		prefix[i]=j;
+		prefix[i]=j;    //assingning values
 	}
 	return prefix;
 }
